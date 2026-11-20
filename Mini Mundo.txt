@@ -1,0 +1,9 @@
+Mini mundo: Almacén
+
+Una empresa distribuidora tiene varios almacenes donde guarda productos. Cada almacén tiene un nombre, dirección y capacidad en m². En cada almacén trabajan varios empleados, pero cada empleado trabaja en un solo almacén.
+
+Los productos se agrupan en categorías (bebidas, limpieza, abarrotes) y cada producto viene de un proveedor, del que se guarda su nombre, NIT, teléfono y dirección. De cada producto se registra su precio unitario y un stock mínimo para saber cuándo hay que reponerlo.
+
+Un mismo producto puede estar en varios almacenes, y un almacén guarda muchos productos. Por eso existe la tabla inventario, que indica cuántas unidades hay de cada producto en cada almacén.
+
+Cada entrada (compra) o salida (despacho) de mercadería se registra como un movimiento, con fecha, tipo, el almacén donde ocurre y el empleado responsable. Un movimiento puede incluir varios productos. El detalle de qué productos y cuántas unidades se guarda en  un "detalle movimiento".

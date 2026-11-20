@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "sqlproj: Build mini_mundo_almacen",
+			"type": "process",
+			"command": "dotnet",
+			"args": [
+				"build",
+				"c:/Users/Administrator/Desktop/docs uni/semestre 2/Base de Datos I/notas/practicas/mini_mundo_almacen/mini_mundo_almacen.sqlproj"
+			],
+			"problemMatcher": "$sqlproj-problem-matcher",
+			"isBackground": true,
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "Compile el proyecto mini_mundo_almacen de SQL"
+		}
+	]
+}

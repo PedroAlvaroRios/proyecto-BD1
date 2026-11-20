@@ -1,0 +1,101 @@
+﻿id_producto,nombre,precio_unitario,stock_minimo,id_categoria,id_proveedor
+1,Agua mineral sin gas 600 ml,0.75,20,1,2
+2,Agua mineral con gas 600 ml,0.85,15,1,2
+3,Agua purificada 1 L,1.10,20,1,2
+4,Agua purificada 5 L,3.50,10,1,2
+5,Refresco de cola 350 ml,0.90,20,1,2
+6,Refresco de cola 2 L,2.25,12,1,2
+7,Refresco de naranja 350 ml,0.90,15,1,2
+8,Refresco de limon 350 ml,0.90,15,1,2
+9,Jugo de naranja 1 L,2.80,10,1,2
+10,Jugo de manzana 1 L,2.80,10,1,2
+11,Nectar de durazno 1 L,2.60,10,1,2
+12,Te frio de limon 500 ml,1.50,12,1,2
+13,Bebida isotonica de naranja 500 ml,1.70,12,1,2
+14,Bebida energetica 250 ml,2.20,8,1,2
+15,Leche entera 1 L,1.80,15,1,1
+16,Leche deslactosada 1 L,2.10,12,1,1
+17,Leche chocolatada 250 ml,0.95,12,1,1
+18,Yogur bebible de fresa 250 ml,0.90,12,1,1
+19,Yogur bebible natural 1 L,2.60,8,1,1
+20,Bebida de soya 1 L,2.80,8,1,5
+21,Cafe listo para beber 250 ml,1.60,8,1,5
+22,Te negro listo para beber 500 ml,1.40,10,1,2
+23,Agua de coco 330 ml,1.75,8,1,5
+24,Bebida de avena 1 L,3.20,8,1,5
+25,Refresco de uva 2 L,2.25,10,1,2
+26,Refresco de manzana 2 L,2.25,10,1,2
+27,Soda lima-limon 2 L,2.25,10,1,2
+28,Jarabe de frambuesa 500 ml,2.90,6,1,2
+29,Bebida concentrada de tamarindo 1 L,3.10,6,1,2
+30,Jugo de piña 1 L,2.75,8,1,2
+31,Jugo de tomate 1 L,2.50,6,1,5
+32,Agua tonica 1 L,2.30,6,1,2
+33,Bebida de malta 330 ml,1.20,8,1,2
+34,Bebida de aloe vera 500 ml,1.90,6,1,5
+35,Detergente en polvo 1 kg,4.50,10,2,3
+36,Detergente liquido 1 L,5.20,10,2,3
+37,Jabon para ropa en barra 200 g,1.10,15,2,3
+38,Suavizante de ropa 1 L,3.80,8,2,3
+39,Cloro domestico 1 L,1.30,12,2,3
+40,Cloro domestico 2 L,2.20,8,2,3
+41,Desinfectante de pino 1 L,2.75,10,2,3
+42,Limpiador multiusos 1 L,2.90,10,2,3
+43,Lavavajillas de limon 750 ml,2.50,10,2,3
+44,Jabon liquido para manos 500 ml,3.10,8,2,3
+45,Jabon de baño en barra,0.90,15,2,5
+46,Limpiador de pisos de lavanda 1 L,2.80,8,2,3
+47,Limpiavidrios 500 ml,2.40,6,2,3
+48,Desengrasante de cocina 500 ml,3.20,6,2,3
+49,Limpiador de inodoros 750 ml,2.60,6,2,3
+50,Limpiador de baño 1 L,3.00,8,2,3
+51,Esponja para trastes paquete de 3,1.50,12,2,5
+52,Fibras abrasivas paquete de 5,2.00,10,2,5
+53,Paño de microfibra,2.40,8,2,5
+54,Bolsas de basura 30 L paquete de 10,2.30,8,2,5
+55,Bolsas de basura 50 L paquete de 10,3.20,8,2,5
+56,Toallas de papel paquete de 2 rollos,2.80,8,2,5
+57,Papel higienico paquete de 4 rollos,3.60,10,2,5
+58,Servilletas paquete de 100,1.50,10,2,5
+59,Ambientador en aerosol 360 ml,3.50,6,2,3
+60,Insecticida en aerosol 400 ml,4.20,6,2,3
+61,Guantes de limpieza talla mediana,2.50,6,2,5
+62,Cubeta plastica 10 L,5.50,4,2,5
+63,Trapeador de algodon,4.80,4,2,5
+64,Escoba de uso general,4.50,4,2,5
+65,Cepillo para pisos,2.70,4,2,5
+66,Gel antibacterial 500 ml,3.40,8,2,5
+67,Toallitas limpiadoras paquete de 20,2.20,6,2,5
+68,Arroz grano largo 1 kg,1.60,20,3,4
+69,Arroz grano largo 5 kg,7.40,10,3,4
+70,Frijol negro 1 kg,2.80,12,3,4
+71,Frijol rojo 1 kg,3.10,10,3,4
+72,Lenteja 1 kg,2.50,10,3,4
+73,Garbanzos 1 kg,2.70,8,3,4
+74,Azucar blanca 1 kg,1.40,15,3,4
+75,Harina de trigo 1 kg,1.50,12,3,4
+76,Harina de maiz 1 kg,1.60,12,3,4
+77,Pasta espagueti 500 g,1.20,15,3,4
+78,Pasta codito 500 g,1.20,12,3,4
+79,Avena en hojuelas 500 g,1.90,10,3,4
+80,Sal yodada 1 kg,0.80,12,3,4
+81,Aceite vegetal 1 L,3.20,10,3,4
+82,Aceite de oliva 500 ml,6.50,4,3,5
+83,Atun en agua 140 g,1.75,10,3,4
+84,Sardina en tomate 155 g,1.50,8,3,4
+85,Maiz enlatado 300 g,1.20,8,3,4
+86,Frijoles refritos 430 g,1.90,8,3,4
+87,Salsa de tomate 350 g,1.35,10,3,4
+88,Mayonesa 390 g,2.80,6,3,5
+89,Mostaza 200 g,1.50,6,3,5
+90,Galletas saladas 300 g,1.60,10,3,4
+91,Galletas dulces 250 g,1.80,10,3,4
+92,Cereal de maiz 500 g,3.80,6,3,5
+93,Cafe molido 250 g,4.20,6,3,4
+94,Chocolate en polvo 400 g,3.60,6,3,5
+95,Miel de abeja 500 g,5.50,4,3,5
+96,Mermelada de fresa 300 g,2.60,6,3,5
+97,Pan de molde 500 g,2.20,8,3,4
+98,Leche en polvo 400 g,5.10,6,3,5
+99,Sopa instantanea de pollo 70 g,0.75,15,3,4
+100,Pasta de tomate 210 g,1.10,8,3,4
